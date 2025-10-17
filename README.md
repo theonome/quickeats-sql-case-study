@@ -48,22 +48,70 @@ The goal of this project was to use SQL for data exploration and insight generat
 
 The database (`quickeats_db`) contains **five related tables**:
 
+### 🧍‍♂️ customers
 
+| Column | Description |
+|---------|-------------|
+| customer_id | Unique ID for each customer |
+| full_name | Customer’s full name |
+| gender | Gender of the customer |
+| city | City of residence |
+| signup_date | Date the customer joined QuickEats |
+| email | Customer’s email address |
 
-| Table | Description |
+---
 
-|--------|-------------|
+### 🍽 restaurants
 
-| **customers** | Customer details such as name, gender, city, and signup date |
+| Column | Description |
+|---------|-------------|
+| restaurant_id | Unique ID for each restaurant |
+| restaurant_name | Name of the restaurant |
+| cuisine_type | Type of cuisine offered |
+| city | City where the restaurant operates |
+| avg_prep_time | Average meal preparation time (may contain nulls) |
 
-| **restaurants** Partner restaurant info including cuisine type, city, and average prep time |
+---
 
-| **riders** | Delivery riders with join date and average rating |
+### 🚴‍♂️ riders
 
-| **orders** | Individual order details including total amount, payment status, and income |
+| Column | Description |
+|---------|-------------|
+| rider_id | Unique ID for each rider |
+| rider_name | Rider’s full name |
+| join_date | Date rider joined QuickEats |
+| city | City where the rider operates |
+| rating | Rider’s average rating (may contain nulls) |
 
-| **feedback** | Customer ratings and comments linked to each order |
+---
 
+### 🧾 orders
+
+| Column | Description |
+|---------|-------------|
+| order_id | Unique order ID |
+| customer_id | ID of the customer who placed the order |
+| restaurant_id | ID of the restaurant fulfilling the order |
+| rider_id | Rider responsible for the delivery |
+| order_date | Date the order was placed |
+| total_amount | Total order amount (may contain nulls) |
+| payment_status | Status of payment (Paid / Pending / Refunded) |
+| delivery_status | Delivery outcome (Delivered / Cancelled) |
+| freshbite_income (QuickEats was formerly called freshbite) | QuickEats commission income (10% of order amount) |
+
+---
+
+### 💬 feedback
+
+| Column | Description |
+|---------|-------------|
+| feedback_id | Unique feedback ID |
+| order_id | Associated order |
+| rating | Customer’s rating for the order (may contain nulls) |
+| comment | Optional text feedback |
+| sentiment | Categorized sentiment (Positive / Neutral / Negative) |
+
+---
 
 
 **Entity Relationships**
@@ -166,17 +214,11 @@ Which restaurants have the highest customer satisfaction ratings?
 ## 📊 Key SQL Concepts Demonstrated
 
 | Concept | Description |
-
 |----------|-------------|
-
 | **INNER JOIN** | Combine data across multiple tables |
-
 | **CAST()** | Convert text-based numeric fields for calculations |
-
 | **CASE WHEN** | Create logical categories for analysis |
-
 | **COALESCE()** | Handle missing or null data |
-
 | **Subqueries** | Compare groups to overall averages |
 
 
@@ -198,65 +240,40 @@ Which restaurants have the highest customer satisfaction ratings?
 
 
 ---
-
-
-
 ## 🧱 Repository Structure
 
-📁 quickeats-sql-case-study
-
+```text
+quickeats-sql-case-study/
 │
-
 ├── README.md
-
-├── data/
-
-│ ├── customers_quickeats.csv
-
-│ ├── feedback_quickeats.csv
-
-│ ├── orders_quickeats.csv
-
-│ ├── restaurants_quickeats.csv
-
-│ └── riders_quickeats.csv
-
-|
-
-├── sql_queries/
-
-│ ├── 01_city_order_trends.sql
-
-│ ├── 02_cuisine_revenue_insights.sql
-
-│ ├── 03_payment_system_health.sql
-
-│ ├── 04_top_spending_customers.sql
-
-│ ├── 05_rider_performance_review.sql
-
-│ ├── 06_delivery_outcome_summary.sql
-
-│ ├── 07_cuisine_efficiency_overview.sql
-
-│ ├── 08_restaurant_performance_benchmark.sql
-
-│ ├── 09_restaurant_satisfaction_ratings.sql
-
-│ └── 10_customer_feedback_champions.sql
-
 │
-
-└── images/
-
-├── quickeats_intro.png
-
-├── quickeats_business_challenge.png
-
-└── quickeats_erd.png
-
-
-
+├── sql_queries/
+│   ├── 01_city_order_trends.sql
+│   ├── 02_cuisine_revenue_insights.sql
+│   ├── 03_payment_system_health.sql
+│   ├── 04_top_spending_customers.sql
+│   ├── 05_rider_performance_review.sql
+│   ├── 06_delivery_outcome_summary.sql
+│   ├── 07_cuisine_efficiency_overview.sql
+│   ├── 08_restaurant_performance_benchmark.sql
+│   ├── 09_restaurant_satisfaction_ratings.sql
+│   └── 10_customer_feedback_champions.sql
+│
+├── data/
+│   ├── customers_quickeats.csv
+│   ├── restaurants_quickeats.csv
+│   ├── riders_quickeats.csv
+│   ├── orders_quickeats.csv
+│   └── feedback_quickeats.csv
+│
+├── images/
+│   ├── quickeats_intro.png
+│   ├── quickeats_business_challenge.png
+│   └── quickeats_erd.png
+│
+└── database/
+    └── quickeats_db_backup.tar
+```
 
 
 ---
@@ -281,7 +298,7 @@ Which restaurants have the highest customer satisfaction ratings?
 ## 🧾 Database Backup
 For convenience, a full PostgreSQL backup of this project is available:
 
-📦 **database/quickeats_db.tar**
+📦 **[Download QuickEats Database Backup (.tar)](https://github.com/theonome/quickeats-sql-case-study/raw/refs/heads/main/database/quickeats_db.tar)**
 
 ### How to Restore in pgAdmin
 1. Create a new database named `quickeats_db`
@@ -306,10 +323,13 @@ Data Analyst | SQL, BI & Data Storytelling
 📍 Lagos, Nigeria  
 
 
-
 ---
 
+### 💛 Inspiration
+This project was inspired by my love for **Chowdeck**, a food delivery platform I use almost daily.  
+Their smooth logistics and attention to customer experience inspired me to explore how data can drive smarter operations in delivery systems like QuickEats.
 
+---
 
 ### 📰 Read More
 

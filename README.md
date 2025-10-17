@@ -325,7 +325,7 @@ Data Analyst | SQL, BI & Data Storytelling
 
 ---
 
-### 💛 Inspiration
+### 💚 Inspiration
 This project was inspired by my love for **Chowdeck**, a food delivery platform I use almost daily.  
 Their smooth logistics and attention to customer experience inspired me to explore how data can drive smarter operations in delivery systems like QuickEats.
 

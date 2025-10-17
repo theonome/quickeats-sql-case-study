@@ -336,7 +336,7 @@ Their smooth logistics and attention to customer experience inspired me to explo
 Medium Article → *Using SQL to Explore and Generate Business Insights for QuickEats*
 
 [Part 1](https://medium.com/@eluyeraonome/how-i-used-sql-to-explore-a-food-delivery-startups-data-0358520146d1)
-
+[Part 2](https://medium.com/@eluyeraonome/the-sql-behind-quickeats-370438c234c4)
 
 
 

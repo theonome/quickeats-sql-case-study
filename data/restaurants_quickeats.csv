@@ -1,0 +1,50 @@
+restaurant_id,restaurant_name,cuisine_type,city,avg_prep_time(mins)
+6,Amala Ibadan,Fusion,Ibadan,33
+37,Biryani & Me,Indian,Ibadan,
+7,Flat Breads,Indian,Kano,35
+31,Food Express,Local,Ibadan,
+47,Food House,Local,Port Harcourt,40
+2,Food Lounge,Indian,Lagos,24
+33,Fresh juices,Continental,Lagos,41
+12,Golden Corner,Italian,Kano,16
+16,Golden Delight,Fusion,Port Harcourt,
+1,Golden Express,Chinese,Lagos,18
+14,Mama Corner,Italian,Kano,20
+10,Mama Spot,Local,Lagos,31
+43,Mummy's Taste,Chinese,Kano,35
+4,Ocean Corner,Chinese,Port Harcourt,41
+23,Ocean Delight,Indian,Abuja,19
+41,Ocean Gate,Italian,Lagos,26
+20,Ocean Kitchen,Italian,Kano,26
+36,Ocean Lounge,Chinese,Abuja,16
+32,Ocean Spot,Local,Port Harcourt,25
+9,Ofada Delight,Local,Port Harcourt,16
+42,Ofada for You,Local,Port Harcourt,36
+46,Ofada Lounge,Indian,Ibadan,39
+21,Ofada Place,Chinese,Ibadan,19
+26,Palm Corner,Chinese,Ibadan,21
+38,Palm Delight,Indian,Abuja,24
+45,Delicious Meals,Local,Abuja,25
+13,Palm Kitchen,Chinese,Lagos,20
+34,Palm Place,Italian,Ibadan,43
+29,Palm Spot,Local,Kano,24
+49,Potato Potahto,Italian,Port Harcourt,31
+28,Spice & Spice,Continental,Port Harcourt,
+5,Spice Corner,Chinese,Abuja,19
+44,Spice Express,Italian,Abuja,17
+22,Spice Kitchen,Local,Kano,41
+24,Spice Place,Indian,Abuja,16
+39,Suya Delight,Continental,Kano,36
+11,Suya Express,Fusion,Lagos,40
+25,Suya Spot,Continental,Ibadan,39
+35,Taste Delight,Continental,Kano,34
+19,Taste House,Fusion,Port Harcourt,36
+17,Taste Lounge,Fusion,Kano,25
+30,Taste Place,Indian,Abuja,17
+40,Taste Spot,Indian,Kano,31
+18,The Place,Chinese,Ibadan,37
+3,Yam Corner,Continental,Lagos,18
+27,Yam Express,Chinese,Ibadan,28
+48,Yam Lounge,Fusion,Ibadan,27
+8,Yam Place,Italian,Ibadan,40
+15,Yam Spot,Italian,Ibadan,36

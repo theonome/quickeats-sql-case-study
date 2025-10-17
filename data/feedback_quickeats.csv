@@ -1,0 +1,1001 @@
+feedback_id,order_id,rating,comments,issue_flag
+1,1,3.9,Fast delivery,Missing item
+2,2,2.9,Great,Missing item
+3,3,4.5,Perfect,None
+4,4,2.7,Perfect,None
+5,5,5,Perfect,Missing item
+6,6,4.4,Never again,Late delivery
+7,7,3,Okay,None
+8,8,2.5,Slow service,Missing item
+9,9,4.5,Great,None
+10,10,4.3,Fast delivery,None
+11,11,4.3,Bad packaging,Late delivery
+12,12,4.4,,Missing item
+13,13,2.7,Delicious,Late delivery
+14,14,,Never again,None
+15,15,2.8,Fast delivery,Missing item
+16,16,,Perfect,None
+17,17,4.1,Great,Late delivery
+18,18,3.3,Fast delivery,Late delivery
+19,19,2.7,Fast delivery,None
+20,20,,Fast delivery,None
+21,21,,Could be better,Missing item
+22,22,4.3,Okay,None
+23,23,,Bad packaging,Late delivery
+24,24,4.7,Okay,Missing item
+25,25,3.7,Okay,Late delivery
+26,26,2.8,Average,None
+27,27,,Delicious,None
+28,28,,Never again,Late delivery
+29,29,3.9,Fast delivery,Late delivery
+30,30,4.4,Fast delivery,None
+31,31,3.7,Great,Late delivery
+32,32,3.8,,Missing item
+33,33,3.6,Slow service,Missing item
+34,34,2.6,Fast delivery,None
+35,35,2.8,Fast delivery,Missing item
+36,36,2.6,,Late delivery
+37,37,4.1,,None
+38,38,3.3,Fast delivery,Late delivery
+39,39,3.8,Great,Missing item
+40,40,4.8,Bad packaging,None
+41,41,3.1,Could be better,Missing item
+42,42,3.5,Great,None
+43,43,,Slow service,None
+44,44,3.1,Perfect,None
+45,45,2.7,,Late delivery
+46,46,3.2,Average,Late delivery
+47,47,2.9,Average,Missing item
+48,48,4.8,Never again,Missing item
+49,49,4.5,Fast delivery,Late delivery
+50,50,4.1,Never again,None
+51,51,,Average,Missing item
+52,52,4.5,Average,Late delivery
+53,53,3,Slow service,Late delivery
+54,54,,Slow service,Late delivery
+55,55,3.8,Perfect,Missing item
+56,56,4.5,,Late delivery
+57,57,4.7,Never again,None
+58,58,3.3,Okay,None
+59,59,2.8,Fast delivery,Late delivery
+60,60,,Fast delivery,Missing item
+61,61,,Perfect,None
+62,62,4.5,Slow service,Missing item
+63,63,4.7,Could be better,Late delivery
+64,64,2.5,Delicious,Missing item
+65,65,3.8,Average,Late delivery
+66,66,3.5,Average,None
+67,67,3.1,Great,None
+68,68,2.8,Great,Late delivery
+69,69,3.3,Delicious,Missing item
+70,70,4.9,Never again,None
+71,71,3.3,Delicious,Missing item
+72,72,3.8,Fast delivery,Missing item
+73,73,4.3,Could be better,None
+74,74,3.4,Okay,None
+75,75,4.9,Slow service,Missing item
+76,76,4.9,Bad packaging,Late delivery
+77,77,3.1,Never again,Late delivery
+78,78,3.7,Delicious,None
+79,79,3.3,,None
+80,80,3.2,Average,None
+81,81,2.6,Great,None
+82,82,4,,Missing item
+83,83,3.8,Bad packaging,None
+84,84,2.6,Okay,Late delivery
+85,85,3.2,Delicious,Late delivery
+86,86,,Bad packaging,None
+87,87,,Great,Late delivery
+88,88,2.9,Perfect,None
+89,89,,Could be better,None
+90,90,5,Perfect,None
+91,91,3.1,Fast delivery,Late delivery
+92,92,4.2,Okay,None
+93,93,,Great,None
+94,94,3.1,Slow service,None
+95,95,4.3,Never again,Missing item
+96,96,,Perfect,Late delivery
+97,97,,Never again,None
+98,98,4.1,Average,Late delivery
+99,99,3.8,Okay,None
+100,100,2.7,Delicious,Missing item
+101,101,4.6,Fast delivery,Late delivery
+102,102,,Fast delivery,Late delivery
+103,103,,Great,Late delivery
+104,104,2.6,Slow service,None
+105,105,4,,Late delivery
+106,106,4.2,Could be better,Late delivery
+107,107,2.5,Great,None
+108,108,,,Missing item
+109,109,3.1,Never again,None
+110,110,4.1,Could be better,Late delivery
+111,111,2.9,Delicious,None
+112,112,4.2,Never again,Missing item
+113,113,3.5,Slow service,Missing item
+114,114,4.8,Never again,None
+115,115,,Slow service,None
+116,116,3.4,,Missing item
+117,117,2.8,Slow service,Missing item
+118,118,4.8,Okay,Missing item
+119,119,4.7,Bad packaging,Missing item
+120,120,3.1,,Late delivery
+121,121,4.1,Perfect,Missing item
+122,122,4.5,,Missing item
+123,123,,Slow service,Missing item
+124,124,3.8,Delicious,None
+125,125,3.1,Okay,Late delivery
+126,126,2.7,Fast delivery,Missing item
+127,127,4.7,Delicious,Late delivery
+128,128,4.8,Slow service,Late delivery
+129,129,4.1,Great,Missing item
+130,130,3.3,Perfect,None
+131,131,3.4,Slow service,None
+132,132,4.3,Never again,Late delivery
+133,133,4.7,Okay,Missing item
+134,134,4.7,Great,Late delivery
+135,135,4.4,Great,Missing item
+136,136,4.1,Okay,Missing item
+137,137,2.7,Slow service,Late delivery
+138,138,2.9,Slow service,Missing item
+139,139,4.7,Bad packaging,None
+140,140,4,Fast delivery,None
+141,141,2.5,Great,Late delivery
+142,142,2.8,Never again,None
+143,143,,,None
+144,144,2.5,Delicious,None
+145,145,2.9,Okay,Late delivery
+146,146,,Great,None
+147,147,4.2,Never again,None
+148,148,4.1,Average,Missing item
+149,149,3.1,Average,None
+150,150,,Bad packaging,None
+151,151,3.1,Great,Missing item
+152,152,3.3,,None
+153,153,,Delicious,Late delivery
+154,154,,Great,None
+155,155,4.6,Perfect,None
+156,156,4.1,Average,Late delivery
+157,157,3.9,Perfect,Late delivery
+158,158,,Could be better,None
+159,159,3.4,Delicious,Late delivery
+160,160,3.2,Perfect,Missing item
+161,161,3.1,Perfect,Late delivery
+162,162,4.9,Average,None
+163,163,3.5,Fast delivery,Late delivery
+164,164,,Bad packaging,None
+165,165,,Perfect,None
+166,166,,Fast delivery,Late delivery
+167,167,3.8,Okay,Missing item
+168,168,3.9,Slow service,Late delivery
+169,169,3.7,Bad packaging,Missing item
+170,170,3,Never again,Missing item
+171,171,4.3,Slow service,Late delivery
+172,172,,Great,Late delivery
+173,173,2.6,Great,Late delivery
+174,174,4.1,Fast delivery,Missing item
+175,175,2.9,Slow service,None
+176,176,4.9,Fast delivery,Late delivery
+177,177,4.9,Average,Missing item
+178,178,4.8,Fast delivery,None
+179,179,,Slow service,None
+180,180,,Okay,None
+181,181,4.8,Delicious,Missing item
+182,182,3.6,Could be better,Late delivery
+183,183,4.9,Fast delivery,None
+184,184,4.9,Fast delivery,Missing item
+185,185,4.6,Bad packaging,Missing item
+186,186,3.2,Delicious,Late delivery
+187,187,3.5,Perfect,None
+188,188,4.6,Okay,Missing item
+189,189,,Delicious,Missing item
+190,190,2.9,Okay,Late delivery
+191,191,3.9,Slow service,Late delivery
+192,192,,,Missing item
+193,193,4.2,,Late delivery
+194,194,3.9,,Missing item
+195,195,,Slow service,Missing item
+196,196,4,Average,Missing item
+197,197,5,,Late delivery
+198,198,,Could be better,Late delivery
+199,199,3.8,Okay,Missing item
+200,200,4.7,Average,Late delivery
+201,201,4.4,Fast delivery,None
+202,202,4.2,Great,Late delivery
+203,203,4.3,,Missing item
+204,204,,Slow service,Missing item
+205,205,3.2,Delicious,Missing item
+206,206,4.5,Fast delivery,Late delivery
+207,207,4.5,,Missing item
+208,208,4.7,Never again,Missing item
+209,209,,Bad packaging,None
+210,210,3.8,Perfect,Missing item
+211,211,3.8,Bad packaging,Late delivery
+212,212,4.5,Perfect,Missing item
+213,213,4.1,,Missing item
+214,214,4.3,Perfect,Late delivery
+215,215,4.5,Never again,Late delivery
+216,216,,Okay,Late delivery
+217,217,3.3,Delicious,Missing item
+218,218,3.4,,Late delivery
+219,219,2.7,Great,Missing item
+220,220,3.9,Slow service,Missing item
+221,221,2.6,Average,Late delivery
+222,222,3.7,Slow service,Late delivery
+223,223,3.9,Bad packaging,Missing item
+224,224,3.2,Fast delivery,Missing item
+225,225,,Okay,Late delivery
+226,226,2.6,,Late delivery
+227,227,2.6,Bad packaging,None
+228,228,4.6,Bad packaging,None
+229,229,3.4,Never again,Late delivery
+230,230,,Okay,Late delivery
+231,231,3.8,Okay,Late delivery
+232,232,4.4,,None
+233,233,3,Bad packaging,Late delivery
+234,234,4.1,Great,None
+235,235,2.7,Perfect,None
+236,236,2.6,Delicious,Missing item
+237,237,3.8,Never again,Late delivery
+238,238,3.9,,Missing item
+239,239,4.1,Could be better,None
+240,240,4.3,Bad packaging,Late delivery
+241,241,,Okay,Late delivery
+242,242,3.8,Fast delivery,Missing item
+243,243,3.3,,Missing item
+244,244,4.5,Fast delivery,Missing item
+245,245,3.2,Slow service,Missing item
+246,246,3.6,Could be better,None
+247,247,2.7,Average,Missing item
+248,248,2.6,Could be better,Late delivery
+249,249,4.9,Could be better,None
+250,250,4.6,Fast delivery,Missing item
+251,251,4.2,Okay,Missing item
+252,252,3.5,Average,None
+253,253,2.9,Never again,Missing item
+254,254,,Never again,None
+255,255,3.1,Bad packaging,Missing item
+256,256,3.9,Average,Late delivery
+257,257,4.3,Okay,None
+258,258,4.2,Perfect,Missing item
+259,259,3.2,Great,Late delivery
+260,260,,,Late delivery
+261,261,4.3,Never again,Late delivery
+262,262,3.9,Okay,None
+263,263,4,Okay,Missing item
+264,264,3.5,Okay,None
+265,265,,Delicious,None
+266,266,3.4,Perfect,Missing item
+267,267,4.4,Average,None
+268,268,2.5,,Missing item
+269,269,2.8,Great,Missing item
+270,270,2.6,Could be better,None
+271,271,2.6,Delicious,None
+272,272,4.6,Great,Late delivery
+273,273,,Great,Missing item
+274,274,3.7,Never again,None
+275,275,,Fast delivery,None
+276,276,,Slow service,Late delivery
+277,277,,Okay,None
+278,278,2.9,Okay,Late delivery
+279,279,3.6,Fast delivery,Late delivery
+280,280,,Never again,Missing item
+281,281,4,Could be better,Late delivery
+282,282,4.1,Perfect,None
+283,283,2.6,Delicious,Missing item
+284,284,3.4,Average,None
+285,285,,Average,Missing item
+286,286,3.8,Bad packaging,None
+287,287,4.6,Perfect,Late delivery
+288,288,4.1,Okay,None
+289,289,2.9,Perfect,Late delivery
+290,290,,Never again,Late delivery
+291,291,4.1,Bad packaging,Late delivery
+292,292,2.6,Perfect,Late delivery
+293,293,4,Never again,Late delivery
+294,294,4.9,Great,Missing item
+295,295,3.9,Delicious,Late delivery
+296,296,3.5,Could be better,Late delivery
+297,297,4.1,Slow service,Missing item
+298,298,3.6,Average,None
+299,299,3.9,Slow service,Late delivery
+300,300,4.9,Delicious,None
+301,301,3.5,Average,Missing item
+302,302,4.9,Okay,Missing item
+303,303,4.8,Slow service,None
+304,304,,Great,Late delivery
+305,305,2.7,Never again,Late delivery
+306,306,2.8,Perfect,None
+307,307,2.5,Perfect,None
+308,308,2.7,,Missing item
+309,309,4.2,Great,None
+310,310,2.7,Perfect,Late delivery
+311,311,3.3,,Late delivery
+312,312,4.6,Bad packaging,Late delivery
+313,313,2.6,Never again,None
+314,314,,,None
+315,315,,Okay,None
+316,316,2.8,Could be better,Missing item
+317,317,4.2,Great,None
+318,318,,Perfect,Late delivery
+319,319,4.7,Fast delivery,None
+320,320,4.3,Fast delivery,Missing item
+321,321,4.5,Average,Missing item
+322,322,3.2,Perfect,Late delivery
+323,323,2.9,Perfect,Late delivery
+324,324,4.4,Slow service,Missing item
+325,325,4.5,Average,Late delivery
+326,326,,,None
+327,327,3.5,Average,Late delivery
+328,328,3.4,Perfect,Missing item
+329,329,4.4,Average,None
+330,330,3.4,Bad packaging,Missing item
+331,331,4.8,Perfect,Late delivery
+332,332,4.6,Never again,Missing item
+333,333,,Average,Missing item
+334,334,,,Late delivery
+335,335,4.4,Delicious,Late delivery
+336,336,2.8,Average,Late delivery
+337,337,4.8,Okay,Missing item
+338,338,3.8,Average,None
+339,339,4.6,Slow service,Late delivery
+340,340,3.3,Bad packaging,Missing item
+341,341,4.7,Average,None
+342,342,,Never again,Late delivery
+343,343,2.5,Never again,Missing item
+344,344,4.8,Slow service,Missing item
+345,345,2.7,Fast delivery,None
+346,346,3.3,Perfect,Missing item
+347,347,,Never again,Late delivery
+348,348,4.9,Average,None
+349,349,3.9,Great,Missing item
+350,350,4.1,,Late delivery
+351,351,3.6,Great,Missing item
+352,352,3.2,Bad packaging,None
+353,353,3.3,Never again,Missing item
+354,354,4.2,Fast delivery,None
+355,355,4.4,Could be better,Late delivery
+356,356,4.5,Perfect,Missing item
+357,357,4.5,Could be better,Late delivery
+358,358,2.7,Delicious,Missing item
+359,359,3.7,Slow service,Missing item
+360,360,2.6,Slow service,Missing item
+361,361,3.9,Average,None
+362,362,3.6,Perfect,Missing item
+363,363,4.7,Delicious,None
+364,364,3.4,Okay,Missing item
+365,365,2.8,Great,Missing item
+366,366,2.9,Average,Late delivery
+367,367,4.4,Great,Late delivery
+368,368,4,Fast delivery,Missing item
+369,369,2.8,Perfect,None
+370,370,2.7,Slow service,Late delivery
+371,371,4.3,,Late delivery
+372,372,,Great,None
+373,373,4.6,Delicious,Missing item
+374,374,4.3,Perfect,None
+375,375,2.7,Average,Late delivery
+376,376,2.7,Slow service,Missing item
+377,377,5,Average,Late delivery
+378,378,3.4,Okay,Missing item
+379,379,3.4,Slow service,Late delivery
+380,380,,Perfect,Late delivery
+381,381,,Bad packaging,Missing item
+382,382,5,,Missing item
+383,383,4.4,Could be better,Late delivery
+384,384,3.4,Okay,Late delivery
+385,385,,Okay,None
+386,386,4.4,Never again,Missing item
+387,387,3.9,,Late delivery
+388,388,,Bad packaging,Missing item
+389,389,4.8,,Late delivery
+390,390,2.8,Average,Late delivery
+391,391,3.7,Average,Missing item
+392,392,2.5,Delicious,None
+393,393,3.7,Fast delivery,Late delivery
+394,394,2.6,Never again,Missing item
+395,395,2.8,,Missing item
+396,396,2.8,Average,Late delivery
+397,397,,Okay,None
+398,398,4.4,Fast delivery,None
+399,399,4,Bad packaging,Missing item
+400,400,4.9,Great,None
+401,401,,Slow service,None
+402,402,3.2,Perfect,Late delivery
+403,403,4.7,Perfect,Late delivery
+404,404,3.1,Okay,None
+405,405,,Never again,Late delivery
+406,406,,Never again,Late delivery
+407,407,,Fast delivery,Late delivery
+408,408,2.6,Fast delivery,Late delivery
+409,409,4.7,Delicious,Late delivery
+410,410,3.8,Could be better,Missing item
+411,411,5,Fast delivery,Late delivery
+412,412,2.7,Average,Missing item
+413,413,3.9,Fast delivery,Missing item
+414,414,4.9,Could be better,Missing item
+415,415,3.8,Okay,None
+416,416,,Fast delivery,None
+417,417,,Bad packaging,Late delivery
+418,418,3.6,Fast delivery,Missing item
+419,419,4.1,Great,Missing item
+420,420,4,Average,Late delivery
+421,421,4.8,Could be better,None
+422,422,2.6,Never again,Missing item
+423,423,3.2,Perfect,None
+424,424,4.9,Delicious,None
+425,425,,,Missing item
+426,426,,,None
+427,427,4.1,Never again,Missing item
+428,428,3.2,Delicious,Late delivery
+429,429,3,Bad packaging,Missing item
+430,430,3.7,Bad packaging,Late delivery
+431,431,3.4,Fast delivery,Missing item
+432,432,4,Great,Missing item
+433,433,2.7,Perfect,Late delivery
+434,434,4.9,,None
+435,435,5,Slow service,Missing item
+436,436,4.2,Great,Missing item
+437,437,3.8,Perfect,Missing item
+438,438,,Perfect,None
+439,439,4.5,Delicious,Missing item
+440,440,4.2,Average,Missing item
+441,441,2.9,Average,Late delivery
+442,442,4.8,Bad packaging,None
+443,443,4.6,Bad packaging,Missing item
+444,444,4.9,Perfect,None
+445,445,,,None
+446,446,4,Great,Missing item
+447,447,3.5,Fast delivery,Late delivery
+448,448,4.8,Average,Missing item
+449,449,4.7,Could be better,Late delivery
+450,450,2.6,Never again,None
+451,451,2.6,Great,Missing item
+452,452,3.4,,None
+453,453,4.5,,Late delivery
+454,454,5,Fast delivery,Missing item
+455,455,2.9,Average,Late delivery
+456,456,4,Could be better,None
+457,457,3.5,Delicious,Late delivery
+458,458,4.9,Perfect,Late delivery
+459,459,4.6,,Late delivery
+460,460,4.6,Slow service,None
+461,461,3.7,Delicious,None
+462,462,,Fast delivery,None
+463,463,3.2,Bad packaging,None
+464,464,,Perfect,Late delivery
+465,465,4.7,Average,None
+466,466,4.5,Okay,Late delivery
+467,467,5,Fast delivery,Missing item
+468,468,5,Great,Missing item
+469,469,3.9,Could be better,Late delivery
+470,470,4.4,Could be better,Missing item
+471,471,4.9,Great,None
+472,472,4.6,Delicious,Late delivery
+473,473,3.1,Okay,Late delivery
+474,474,3.6,Great,Late delivery
+475,475,2.8,,None
+476,476,4.9,Okay,None
+477,477,4,Perfect,Missing item
+478,478,3.1,Never again,Missing item
+479,479,4.2,Bad packaging,Late delivery
+480,480,,,None
+481,481,3.4,Delicious,None
+482,482,2.8,Never again,Missing item
+483,483,4.2,Perfect,Late delivery
+484,484,3.8,Fast delivery,None
+485,485,4.4,Great,None
+486,486,3.8,Great,Missing item
+487,487,4.6,Perfect,Late delivery
+488,488,,Could be better,Missing item
+489,489,3.9,Average,Missing item
+490,490,4.7,Could be better,Missing item
+491,491,3.5,,Late delivery
+492,492,2.8,,Missing item
+493,493,2.6,Could be better,Late delivery
+494,494,4.4,Fast delivery,Late delivery
+495,495,,Never again,None
+496,496,,Could be better,Missing item
+497,497,3,Okay,Missing item
+498,498,,Okay,Missing item
+499,499,,,None
+500,500,3.4,Average,Missing item
+501,501,4,Delicious,Late delivery
+502,502,3.5,Perfect,None
+503,503,3.6,Could be better,Missing item
+504,504,4.8,Okay,Late delivery
+505,505,,Average,Late delivery
+506,506,3.8,Okay,None
+507,507,4.5,Slow service,Late delivery
+508,508,3.5,Perfect,Late delivery
+509,509,4.1,Delicious,None
+510,510,4.7,Bad packaging,None
+511,511,4.9,Delicious,Missing item
+512,512,2.9,Great,Late delivery
+513,513,,Average,None
+514,514,3.7,Could be better,None
+515,515,3.1,Average,Late delivery
+516,516,3.6,Never again,None
+517,517,5,,Late delivery
+518,518,3.7,Okay,Late delivery
+519,519,3.3,Never again,Missing item
+520,520,,Never again,Missing item
+521,521,3.1,Bad packaging,None
+522,522,2.7,Average,None
+523,523,2.8,,Missing item
+524,524,2.8,Okay,Late delivery
+525,525,2.9,,Missing item
+526,526,2.8,Perfect,Missing item
+527,527,4.1,,Late delivery
+528,528,3,Bad packaging,None
+529,529,3.4,Perfect,Missing item
+530,530,4.7,Fast delivery,None
+531,531,3.7,,None
+532,532,4.2,,None
+533,533,2.9,Never again,Late delivery
+534,534,3,Perfect,None
+535,535,2.6,Okay,Late delivery
+536,536,2.9,Average,Late delivery
+537,537,3.2,Could be better,None
+538,538,2.9,Delicious,Missing item
+539,539,2.7,Great,Late delivery
+540,540,,Delicious,Late delivery
+541,541,3.7,Great,None
+542,542,,Slow service,Missing item
+543,543,3.4,Fast delivery,Missing item
+544,544,3.8,Average,Missing item
+545,545,4.2,,None
+546,546,2.6,Great,Late delivery
+547,547,4.5,Slow service,Missing item
+548,548,4.1,Slow service,Late delivery
+549,549,2.7,Okay,Missing item
+550,550,4.7,Slow service,None
+551,551,4.8,Bad packaging,Late delivery
+552,552,2.7,Bad packaging,Late delivery
+553,553,3.2,Fast delivery,Late delivery
+554,554,4.5,Slow service,None
+555,555,4.4,Okay,None
+556,556,3,Could be better,Late delivery
+557,557,3,Perfect,None
+558,558,3.4,Great,Late delivery
+559,559,3.7,Fast delivery,Missing item
+560,560,4,Never again,Missing item
+561,561,3.4,Great,Late delivery
+562,562,,Could be better,Missing item
+563,563,,,None
+564,564,2.6,Delicious,Late delivery
+565,565,3.1,Fast delivery,Late delivery
+566,566,4.3,Slow service,None
+567,567,,,Missing item
+568,568,,Bad packaging,None
+569,569,3.8,,Missing item
+570,570,2.8,,Missing item
+571,571,,Okay,None
+572,572,3.8,Average,None
+573,573,3.1,,Missing item
+574,574,3.2,,Missing item
+575,575,3.4,Perfect,Late delivery
+576,576,2.6,Bad packaging,None
+577,577,,Never again,Late delivery
+578,578,3,,Late delivery
+579,579,3.3,Delicious,Missing item
+580,580,2.8,Okay,Late delivery
+581,581,4.7,Never again,None
+582,582,4,Bad packaging,Missing item
+583,583,,Fast delivery,Missing item
+584,584,4.5,Slow service,Late delivery
+585,585,3.7,Never again,Late delivery
+586,586,2.7,,Late delivery
+587,587,3.8,Fast delivery,None
+588,588,4,Perfect,Missing item
+589,589,4.4,Could be better,Missing item
+590,590,3.6,Delicious,Missing item
+591,591,2.8,Okay,Missing item
+592,592,,Great,None
+593,593,3.4,Bad packaging,None
+594,594,,Fast delivery,Missing item
+595,595,3.9,Delicious,Late delivery
+596,596,3.4,Perfect,Missing item
+597,597,5,Never again,Late delivery
+598,598,4,Delicious,Missing item
+599,599,3.1,Perfect,Late delivery
+600,600,2.8,Fast delivery,None
+601,601,2.9,,Late delivery
+602,602,3.1,,None
+603,603,2.9,Average,Missing item
+604,604,3,,Late delivery
+605,605,3.2,Delicious,None
+606,606,2.9,Perfect,Late delivery
+607,607,4.7,Perfect,Late delivery
+608,608,2.7,Delicious,Missing item
+609,609,3.8,,None
+610,610,,Fast delivery,Late delivery
+611,611,5,Never again,Missing item
+612,612,2.8,Never again,Missing item
+613,613,3.5,Great,None
+614,614,4.9,Never again,None
+615,615,,Great,Late delivery
+616,616,,Fast delivery,Missing item
+617,617,3.1,Could be better,Late delivery
+618,618,2.9,Okay,Late delivery
+619,619,4.2,Delicious,Late delivery
+620,620,4.8,Perfect,Missing item
+621,621,,Bad packaging,Late delivery
+622,622,3.9,Delicious,Late delivery
+623,623,3.2,,Late delivery
+624,624,4.4,Slow service,Missing item
+625,625,3,Fast delivery,Missing item
+626,626,3.3,Delicious,None
+627,627,,Average,Late delivery
+628,628,3.8,Great,Missing item
+629,629,3.1,Perfect,Late delivery
+630,630,2.8,Bad packaging,Missing item
+631,631,4,Delicious,None
+632,632,,,Missing item
+633,633,4,Fast delivery,None
+634,634,2.9,,Missing item
+635,635,3.7,,Missing item
+636,636,3.8,Great,Late delivery
+637,637,2.6,Fast delivery,Missing item
+638,638,3.3,Okay,Late delivery
+639,639,2.8,,Missing item
+640,640,,Fast delivery,Late delivery
+641,641,,Delicious,Late delivery
+642,642,3.3,Delicious,Late delivery
+643,643,,Average,Missing item
+644,644,3.1,Average,None
+645,645,4.2,Great,None
+646,646,4.4,Bad packaging,None
+647,647,4,Slow service,Missing item
+648,648,3.7,Okay,Missing item
+649,649,3.5,Could be better,Late delivery
+650,650,3.4,Slow service,None
+651,651,4.8,Perfect,None
+652,652,4.6,Delicious,Late delivery
+653,653,4.9,,Missing item
+654,654,2.8,Okay,Late delivery
+655,655,4.3,Delicious,Missing item
+656,656,4.8,,None
+657,657,3,Average,Missing item
+658,658,2.7,Bad packaging,Missing item
+659,659,4.4,Great,Late delivery
+660,660,3.9,Great,None
+661,661,4.6,Average,None
+662,662,2.8,Delicious,None
+663,663,4.5,Bad packaging,Missing item
+664,664,3,Bad packaging,None
+665,665,2.9,Bad packaging,Missing item
+666,666,2.9,Slow service,Missing item
+667,667,,Perfect,Missing item
+668,668,4.2,Fast delivery,Late delivery
+669,669,3.8,Never again,None
+670,670,,Great,None
+671,671,4.7,Bad packaging,Late delivery
+672,672,3.5,Slow service,None
+673,673,4.5,Slow service,Late delivery
+674,674,,Delicious,Late delivery
+675,675,,Average,Late delivery
+676,676,3.7,Bad packaging,Missing item
+677,677,3.3,Average,Late delivery
+678,678,,Fast delivery,Late delivery
+679,679,3.8,Okay,Missing item
+680,680,3.1,Never again,None
+681,681,4.7,Could be better,Late delivery
+682,682,3.5,Okay,None
+683,683,3.9,Great,None
+684,684,4.8,Fast delivery,Late delivery
+685,685,4.1,Bad packaging,None
+686,686,2.8,Okay,Missing item
+687,687,4.8,Average,Late delivery
+688,688,4.1,Okay,None
+689,689,3.3,Okay,Missing item
+690,690,2.8,Okay,Late delivery
+691,691,4.5,Average,Missing item
+692,692,4.1,Bad packaging,Missing item
+693,693,3.8,Fast delivery,Late delivery
+694,694,4.7,Average,None
+695,695,,Never again,Late delivery
+696,696,2.9,Bad packaging,Late delivery
+697,697,,Bad packaging,Late delivery
+698,698,,Could be better,Late delivery
+699,699,4.4,Great,Missing item
+700,700,2.6,Great,Late delivery
+701,701,3.9,Could be better,Missing item
+702,702,,Slow service,None
+703,703,,,Missing item
+704,704,,Perfect,Late delivery
+705,705,4.6,Delicious,Missing item
+706,706,2.8,Great,None
+707,707,4.6,Average,Late delivery
+708,708,2.8,Great,None
+709,709,3.5,Average,Late delivery
+710,710,4.5,Perfect,Missing item
+711,711,2.9,Great,Late delivery
+712,712,3.1,Okay,Late delivery
+713,713,4.3,Great,Missing item
+714,714,4.3,Perfect,None
+715,715,4.1,Fast delivery,Late delivery
+716,716,4.2,,None
+717,717,,Average,Missing item
+718,718,3.1,Never again,Late delivery
+719,719,3.4,Great,Late delivery
+720,720,3,Fast delivery,Late delivery
+721,721,4.8,Fast delivery,Missing item
+722,722,4,,Missing item
+723,723,3.5,Could be better,None
+724,724,3.7,Could be better,Late delivery
+725,725,4.9,Never again,None
+726,726,2.9,Great,Late delivery
+727,727,4,Okay,Missing item
+728,728,,Average,None
+729,729,4,Never again,Late delivery
+730,730,2.5,Okay,Missing item
+731,731,4.7,Never again,Late delivery
+732,732,4.8,Could be better,Missing item
+733,733,3.9,Okay,Late delivery
+734,734,4.2,Bad packaging,None
+735,735,4.8,Great,Missing item
+736,736,4.3,Average,Late delivery
+737,737,2.9,Okay,None
+738,738,3.9,Never again,Missing item
+739,739,4,Could be better,Missing item
+740,740,3.6,Could be better,None
+741,741,4.3,Slow service,None
+742,742,4.8,Slow service,Late delivery
+743,743,,,None
+744,744,3.6,Never again,Late delivery
+745,745,2.8,Delicious,Missing item
+746,746,,Could be better,None
+747,747,4.6,,None
+748,748,2.8,Bad packaging,Late delivery
+749,749,,Perfect,Missing item
+750,750,4.7,Great,Late delivery
+751,751,3.8,Delicious,Missing item
+752,752,4,Average,None
+753,753,3.5,Could be better,Late delivery
+754,754,2.6,Bad packaging,None
+755,755,3.3,Average,Late delivery
+756,756,4.5,Perfect,Late delivery
+757,757,2.5,Bad packaging,Missing item
+758,758,3.3,Fast delivery,None
+759,759,3.5,Could be better,Missing item
+760,760,3.8,Fast delivery,Missing item
+761,761,4.8,Perfect,None
+762,762,3.4,Perfect,Late delivery
+763,763,3.4,,None
+764,764,4.3,Perfect,Late delivery
+765,765,3.6,Fast delivery,Late delivery
+766,766,3.1,Okay,Late delivery
+767,767,3.6,Okay,None
+768,768,2.9,Perfect,None
+769,769,2.9,Average,Missing item
+770,770,3.7,Great,Missing item
+771,771,3.5,Could be better,Missing item
+772,772,,Could be better,Missing item
+773,773,,Delicious,Missing item
+774,774,4,Great,Late delivery
+775,775,4.1,Fast delivery,Missing item
+776,776,2.5,Bad packaging,None
+777,777,,Delicious,Late delivery
+778,778,,Average,None
+779,779,4.9,Slow service,Missing item
+780,780,2.9,Delicious,None
+781,781,3.5,Average,Late delivery
+782,782,,Delicious,Missing item
+783,783,5,Great,Missing item
+784,784,3.8,Bad packaging,Missing item
+785,785,4,Perfect,Late delivery
+786,786,2.7,Could be better,Missing item
+787,787,4.4,Perfect,Late delivery
+788,788,3,Delicious,Missing item
+789,789,4.7,Fast delivery,Late delivery
+790,790,,Delicious,Late delivery
+791,791,3,,Late delivery
+792,792,2.6,Bad packaging,Late delivery
+793,793,3.7,Average,None
+794,794,3.9,Delicious,Late delivery
+795,795,,Never again,None
+796,796,4.4,Slow service,Late delivery
+797,797,3.6,Fast delivery,Late delivery
+798,798,3.8,Okay,Missing item
+799,799,3.6,Perfect,Late delivery
+800,800,,Could be better,Missing item
+801,801,3.9,Okay,Late delivery
+802,802,,Great,Late delivery
+803,803,3,Perfect,None
+804,804,4.7,Perfect,Late delivery
+805,805,4.9,Okay,Late delivery
+806,806,3.4,Never again,Missing item
+807,807,3.2,Slow service,None
+808,808,4.1,Never again,Late delivery
+809,809,3.5,Okay,Missing item
+810,810,2.6,Never again,Missing item
+811,811,2.9,,Late delivery
+812,812,4.3,Perfect,None
+813,813,4.1,Okay,None
+814,814,2.6,Delicious,None
+815,815,3.1,Perfect,Missing item
+816,816,3.1,Fast delivery,None
+817,817,4.2,Could be better,Late delivery
+818,818,2.5,Bad packaging,None
+819,819,2.8,Perfect,Late delivery
+820,820,4.5,Okay,Late delivery
+821,821,2.9,Delicious,None
+822,822,4.1,,Late delivery
+823,823,3.1,Bad packaging,Late delivery
+824,824,2.7,Never again,None
+825,825,3.1,Delicious,None
+826,826,4.3,Slow service,None
+827,827,4.6,Bad packaging,Late delivery
+828,828,4.6,Average,None
+829,829,3.5,Okay,None
+830,830,4.2,,Late delivery
+831,831,,Okay,None
+832,832,3.2,Could be better,Missing item
+833,833,4.7,Never again,Late delivery
+834,834,2.5,Fast delivery,None
+835,835,2.7,,Missing item
+836,836,3,Delicious,Late delivery
+837,837,2.6,Slow service,Missing item
+838,838,3,Perfect,None
+839,839,4,Great,None
+840,840,3.6,Okay,None
+841,841,4.7,Bad packaging,Late delivery
+842,842,4.5,Never again,None
+843,843,,Never again,Missing item
+844,844,3.1,Average,Late delivery
+845,845,3.4,Could be better,Late delivery
+846,846,4,Could be better,Late delivery
+847,847,3.2,Great,None
+848,848,4.1,Average,Late delivery
+849,849,3.5,Okay,Missing item
+850,850,3.9,Okay,Late delivery
+851,851,,Could be better,None
+852,852,,Never again,None
+853,853,,Bad packaging,None
+854,854,,Perfect,Late delivery
+855,855,2.9,Fast delivery,Missing item
+856,856,4.7,Average,None
+857,857,,Okay,Missing item
+858,858,4.7,Great,None
+859,859,4.5,,None
+860,860,3.6,Never again,Missing item
+861,861,2.6,Could be better,None
+862,862,,Average,Late delivery
+863,863,3.9,Delicious,Late delivery
+864,864,,Great,Late delivery
+865,865,3.1,Delicious,Late delivery
+866,866,2.8,Never again,None
+867,867,,Fast delivery,None
+868,868,5,Perfect,Missing item
+869,869,,Fast delivery,Missing item
+870,870,2.9,Bad packaging,Missing item
+871,871,3.2,Fast delivery,Late delivery
+872,872,2.5,Great,Missing item
+873,873,4.8,Slow service,None
+874,874,,Slow service,None
+875,875,3.9,Bad packaging,Late delivery
+876,876,3.2,Slow service,Late delivery
+877,877,3.9,Perfect,Missing item
+878,878,4.1,Fast delivery,Late delivery
+879,879,4.6,Bad packaging,Missing item
+880,880,,Delicious,Late delivery
+881,881,,Great,Missing item
+882,882,,Bad packaging,None
+883,883,,Fast delivery,Late delivery
+884,884,4.7,Average,Missing item
+885,885,4,Slow service,None
+886,886,4,Fast delivery,Missing item
+887,887,4.2,Could be better,Missing item
+888,888,2.9,Average,Missing item
+889,889,4.8,Fast delivery,Missing item
+890,890,3.5,Perfect,None
+891,891,3.5,Delicious,Late delivery
+892,892,3.8,Perfect,None
+893,893,,Perfect,None
+894,894,2.9,,Late delivery
+895,895,,Fast delivery,None
+896,896,2.7,Okay,Missing item
+897,897,4,,Late delivery
+898,898,,Never again,Missing item
+899,899,3.5,Perfect,Late delivery
+900,900,,Perfect,Missing item
+901,901,,Bad packaging,None
+902,902,4.3,Delicious,Missing item
+903,903,3.2,,Missing item
+904,904,3.9,Great,Late delivery
+905,905,3.7,Bad packaging,Late delivery
+906,906,4.2,Slow service,Missing item
+907,907,,Never again,Missing item
+908,908,4.3,Bad packaging,Missing item
+909,909,3,,None
+910,910,2.6,Perfect,Late delivery
+911,911,3.2,Perfect,Late delivery
+912,912,,Bad packaging,None
+913,913,2.6,Perfect,None
+914,914,3.7,Never again,Late delivery
+915,915,4,,None
+916,916,3.3,Average,None
+917,917,4.4,Great,Late delivery
+918,918,2.8,Never again,Missing item
+919,919,,Okay,Missing item
+920,920,4.3,Great,Missing item
+921,921,3.7,Okay,None
+922,922,4.2,Could be better,Late delivery
+923,923,3.6,Great,Late delivery
+924,924,3.1,Fast delivery,None
+925,925,4.5,Could be better,None
+926,926,4.5,Never again,Missing item
+927,927,4.2,Perfect,None
+928,928,3.2,Could be better,Missing item
+929,929,4,Slow service,Late delivery
+930,930,3.4,Bad packaging,Late delivery
+931,931,2.7,Average,None
+932,932,4.8,Delicious,None
+933,933,2.8,Average,Missing item
+934,934,4.9,Fast delivery,Missing item
+935,935,3.6,Okay,None
+936,936,3,Average,Late delivery
+937,937,3.9,Slow service,Missing item
+938,938,4.7,,None
+939,939,4.3,Slow service,Late delivery
+940,940,4.5,Perfect,None
+941,941,4.1,Okay,Missing item
+942,942,4.2,Delicious,Missing item
+943,943,4.6,Could be better,Late delivery
+944,944,3.1,Slow service,Late delivery
+945,945,3.7,Fast delivery,Late delivery
+946,946,3.1,Never again,None
+947,947,,Delicious,Missing item
+948,948,4.9,Never again,None
+949,949,2.6,Never again,None
+950,950,4.3,Okay,None
+951,951,4.8,,Late delivery
+952,952,3,Bad packaging,Missing item
+953,953,,Average,Missing item
+954,954,4.8,Great,Missing item
+955,955,2.6,Fast delivery,Late delivery
+956,956,4.2,Perfect,Late delivery
+957,957,3.2,Delicious,Missing item
+958,958,4.8,Great,Missing item
+959,959,4.9,Average,Missing item
+960,960,,Fast delivery,Missing item
+961,961,3.7,Great,Missing item
+962,962,4.7,Average,Late delivery
+963,963,4.6,Okay,Missing item
+964,964,3.3,Perfect,Late delivery
+965,965,4.6,Bad packaging,None
+966,966,2.6,Could be better,Missing item
+967,967,4,Average,Missing item
+968,968,3.1,Great,Missing item
+969,969,2.8,,Missing item
+970,970,,Perfect,None
+971,971,4.2,Fast delivery,None
+972,972,3.3,Slow service,Late delivery
+973,973,,Fast delivery,Missing item
+974,974,2.7,Fast delivery,Missing item
+975,975,,Great,Missing item
+976,976,,Average,Late delivery
+977,977,4.5,Fast delivery,Missing item
+978,978,3.3,Never again,None
+979,979,4.1,Delicious,Late delivery
+980,980,4.7,Average,Late delivery
+981,981,4,Bad packaging,None
+982,982,3.1,Bad packaging,Missing item
+983,983,2.6,Average,Missing item
+984,984,4.7,Slow service,Late delivery
+985,985,2.6,Perfect,Missing item
+986,986,4.7,Bad packaging,None
+987,987,3.8,Never again,Late delivery
+988,988,4.8,Great,Missing item
+989,989,4.5,Perfect,Missing item
+990,990,5,Great,Missing item
+991,991,,Okay,None
+992,992,4.4,Okay,Missing item
+993,993,3.5,Great,None
+994,994,,Slow service,Missing item
+995,995,4.1,Never again,Missing item
+996,996,4.7,Slow service,Missing item
+997,997,,Slow service,Missing item
+998,998,4.4,Okay,None
+999,999,3.5,,None
+1000,1000,3.6,Okay,Missing item

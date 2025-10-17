@@ -1,0 +1,201 @@
+customer_id,full_name,gender,city,signup_date
+43,Ibrahim Ojo,Male,Lagos,16/10/2025
+161,Lola Musa,Female,Lagos,15/10/2025
+186,Kemi Adebayo,Male,Lagos,12/10/2025
+102,Fatima Usman,Female,Ibadan,09/10/2025
+80,Lola Ojo,Female,Kano,07/10/2025
+135,Folasade Adebayo,Female,Port Harcourt,06/10/2025
+61,Bisi Bello,Male,Kano,03/10/2025
+6,Chuka Balogun,Female,Lagos,02/10/2025
+18,Abdullahi Ibrahim,Male,Lagos,02/10/2025
+75,Bisi Oladipo,Male,Port Harcourt,01/10/2025
+82,Chinedu Sule,Female,Abuja,01/10/2025
+141,Chinedu Onyeka,Male,Port Harcourt,01/10/2025
+95,Bisi Onyeka,Female,Ibadan,30/09/2025
+21,Hassan Abdullahi,Male,Kano,29/09/2025
+24,Chiamaka Adebayo,Female,Kano,28/09/2025
+122,Ngozi Nwachukwu,Female,Port Harcourt,27/09/2025
+178,Hassan Adebayo,,Port Harcourt,27/09/2025
+94,Chuka Yakubu,Female,Abuja,25/09/2025
+65,Ahmed Adamu,Female,Port Harcourt,24/09/2025
+109,Bisi Nwachukwu,Male,Ibadan,23/09/2025
+199,Zainab Eze,Male,Port Harcourt,21/09/2025
+29,Abdullahi Nwosu,Female,Abuja,20/09/2025
+150,Fatima Abdullahi,Female,Lagos,20/09/2025
+40,Ngozi Okoro,Male,Ibadan,19/09/2025
+41,Uche Usman,Male,Ibadan,17/09/2025
+20,Abdullahi Lawal,Male,Port Harcourt,17/09/2025
+133,Abdullahi Adebayo,Female,Ibadan,17/09/2025
+185,Zainab Bello,Female,Port Harcourt,17/09/2025
+73,Emeka Adebayo,Female,Ibadan,16/09/2025
+152,Ahmed Ibrahim,,Lagos,12/09/2025
+100,Zainab Nwachukwu,Male,Ibadan,09/09/2025
+93,Lola Okoro,Female,Lagos,08/09/2025
+165,Chiamaka Yakubu,Male,Ibadan,08/09/2025
+128,Bisi Adamu,Female,Ibadan,06/09/2025
+104,Kemi Akinwale,Male,Abuja,05/09/2025
+182,Zainab Akinwale,Female,Abuja,31/08/2025
+55,Zainab Nwosu,Male,Ibadan,29/08/2025
+114,Chiamaka Okoro,Female,Ibadan,29/08/2025
+17,Zainab Onyeka,,Ibadan,28/08/2025
+31,Zainab Balogun,Female,Lagos,27/08/2025
+11,Chiamaka Nwosu,Female,Port Harcourt,24/08/2025
+160,Emeka Balogun,Female,Kano,23/08/2025
+149,Aisha Ekanem,Female,Ibadan,22/08/2025
+36,Ngozi Sule,,Ibadan,21/08/2025
+84,Emeka Lawal,,Ibadan,21/08/2025
+69,Folasade Onyeka,Male,Ibadan,19/08/2025
+3,Uche Oladipo,Male,Kano,18/08/2025
+187,Lola Musa,Male,Ibadan,15/08/2025
+111,Chiamaka Yakubu,Male,Kano,15/08/2025
+146,Oluwaseun Lawal,Male,Kano,14/08/2025
+153,Fatima Nwosu,Female,Abuja,14/08/2025
+7,Chuka Sule,,Port Harcourt,13/08/2025
+192,Chinedu Usman,Male,Abuja,13/08/2025
+59,Chuka Ibrahim,Female,Lagos,11/08/2025
+143,Aisha Nwosu,Female,Abuja,11/08/2025
+45,Uche Balogun,Female,Kano,10/08/2025
+112,Fatima Usman,Female,Kano,09/08/2025
+51,Aisha Adebayo,Female,Kano,09/08/2025
+179,Chiamaka Akinwale,Female,Ibadan,09/08/2025
+175,Folasade Ekanem,Male,Ibadan,08/08/2025
+78,Zainab Akinwale,Female,Lagos,04/08/2025
+85,Chinedu Akinwale,Female,Port Harcourt,04/08/2025
+132,Folasade Nwachukwu,Male,Ibadan,03/08/2025
+195,Oluwaseun Nwachukwu,Female,Lagos,03/08/2025
+98,Chinedu Lawal,Female,Port Harcourt,02/08/2025
+131,Ibrahim Nwachukwu,Female,Kano,01/08/2025
+155,Oluwaseun Balogun,Male,Port Harcourt,01/08/2025
+193,Tunde Okoro,Female,Ibadan,01/08/2025
+145,Tunde Ojo,Female,Abuja,30/07/2025
+125,Chiamaka Bello,Female,Port Harcourt,26/07/2025
+124,Chuka Lawal,Female,Port Harcourt,25/07/2025
+176,Tunde Oladipo,Male,Lagos,25/07/2025
+71,Amaka Musa,Male,Abuja,23/07/2025
+42,Abdullahi Akinwale,Male,Port Harcourt,22/07/2025
+81,Hassan Nwosu,Female,Ibadan,19/07/2025
+197,Chinedu Musa,,Ibadan,14/07/2025
+25,Hassan Yakubu,Male,Port Harcourt,10/07/2025
+164,Chuka Nwosu,Male,Ibadan,10/07/2025
+88,Ibrahim Nwachukwu,Male,Ibadan,08/07/2025
+167,Emeka Ekanem,Female,Lagos,08/07/2025
+158,Chuka Ekanem,Male,Abuja,07/07/2025
+184,Lola Adebayo,Female,Lagos,07/07/2025
+137,Zainab Bello,Female,Ibadan,06/07/2025
+9,Aisha Nwosu,Female,Port Harcourt,06/07/2025
+92,Hassan Musa,Male,Port Harcourt,05/07/2025
+134,Bisi Eze,Female,Kano,04/07/2025
+151,Lola Usman,Female,Lagos,04/07/2025
+35,Uche Lawal,Female,Abuja,30/06/2025
+48,Chinedu Abdullahi,Female,Kano,27/06/2025
+108,Oluwaseun Ojo,Female,Port Harcourt,27/06/2025
+106,Uche Balogun,Male,Kano,24/06/2025
+4,Oluwaseun Ibrahim,Male,Abuja,24/06/2025
+157,Ngozi Ibrahim,Female,Port Harcourt,23/06/2025
+198,Chiamaka Nwosu,Female,Lagos,22/06/2025
+54,Ngozi Lawal,Male,Abuja,20/06/2025
+138,Ibrahim Nwachukwu,Male,Kano,19/06/2025
+154,Bisi Adebayo,Male,Port Harcourt,18/06/2025
+58,Bisi Balogun,Female,Kano,15/06/2025
+172,Ibrahim Adamu,Male,Lagos,14/06/2025
+123,Zainab Nwachukwu,Female,Port Harcourt,14/06/2025
+177,Zainab Musa,Female,Lagos,14/06/2025
+12,Chiamaka Nwosu,Male,Abuja,11/06/2025
+13,Ahmed Ibrahim,,Kano,11/06/2025
+181,Zainab Akinwale,Female,Ibadan,10/06/2025
+191,Abdullahi Abdullahi,Female,Port Harcourt,09/06/2025
+129,Chuka Eze,Male,Abuja,08/06/2025
+107,Tunde Adamu,Male,Ibadan,07/06/2025
+22,Amaka Onyeka,Male,Lagos,07/06/2025
+117,Ibrahim Ibrahim,Male,Lagos,07/06/2025
+118,Hassan Usman,Female,Lagos,05/06/2025
+79,Ahmed Usman,Male,Kano,04/06/2025
+64,Chiamaka Adebayo,Female,Abuja,04/06/2025
+91,Aisha Usman,Male,Lagos,04/06/2025
+162,Chinedu Onyeka,Male,Ibadan,04/06/2025
+63,Fatima Oladipo,Female,Port Harcourt,01/06/2025
+105,Bisi Usman,Female,Lagos,01/06/2025
+8,Lola Usman,Male,Lagos,29/05/2025
+196,Tunde Eze,Male,Abuja,29/05/2025
+194,Bisi Abdullahi,Male,Port Harcourt,26/05/2025
+89,Ngozi Onyeka,Male,Abuja,25/05/2025
+1,Chuka Eze,Male,Abuja,22/05/2025
+156,Ngozi Abdullahi,Female,Kano,20/05/2025
+30,Oluwaseun Nwachukwu,Female,Ibadan,19/05/2025
+34,Emeka Adamu,,Kano,17/05/2025
+140,Ibrahim Yakubu,Male,Lagos,16/05/2025
+19,Bisi Akinwale,Female,Abuja,15/05/2025
+147,Uche Nwachukwu,Male,Abuja,11/05/2025
+39,Oluwaseun Nwachukwu,Male,Lagos,11/05/2025
+52,Ibrahim Bello,Male,Port Harcourt,08/05/2025
+33,Chiamaka Ekanem,Male,Port Harcourt,08/05/2025
+14,Kemi Nwachukwu,Female,Abuja,07/05/2025
+74,Zainab Adamu,Male,Ibadan,07/05/2025
+27,Chinedu Eze,Male,Kano,06/05/2025
+28,Tunde Nwosu,,Lagos,06/05/2025
+96,Bisi Akinwale,Male,Port Harcourt,05/05/2025
+101,Emeka Eze,,Abuja,05/05/2025
+169,Emeka Okoro,Male,Lagos,05/05/2025
+26,Lola Ekanem,Female,Lagos,05/05/2025
+174,Bisi Bello,Female,Kano,05/05/2025
+23,Uche Bello,Male,Lagos,05/05/2025
+44,Chuka Okoro,Female,Abuja,05/05/2025
+57,Uche Eze,Female,Port Harcourt,05/05/2025
+86,Bisi Okoro,Male,Port Harcourt,05/05/2025
+87,Tunde Eze,Male,Lagos,03/05/2025
+53,Chuka Balogun,Female,Kano,02/05/2025
+67,Aisha Ojo,Female,Lagos,01/05/2025
+113,Chuka Abdullahi,Female,Lagos,30/04/2025
+173,Ibrahim Eze,Male,Kano,30/04/2025
+136,Ahmed Ekanem,Male,Abuja,30/04/2025
+170,Ibrahim Usman,Male,Kano,30/04/2025
+10,Ngozi Balogun,Female,Lagos,29/04/2025
+200,Ahmed Yakubu,Female,Lagos,29/04/2025
+66,Hassan Akinwale,Female,Abuja,28/04/2025
+56,Uche Abdullahi,Female,Port Harcourt,27/04/2025
+180,Chuka Musa,Male,Ibadan,27/04/2025
+116,Uche Ibrahim,Male,Ibadan,26/04/2025
+16,Ibrahim Oladipo,Male,Lagos,23/04/2025
+15,Chiamaka Adamu,Female,Kano,23/04/2025
+37,Fatima Yakubu,Female,Abuja,22/04/2025
+166,Hassan Yakubu,Female,Lagos,22/04/2025
+70,Oluwaseun Abdullahi,Female,Ibadan,21/04/2025
+47,Bisi Musa,Male,Port Harcourt,21/04/2025
+148,Emeka Ibrahim,Female,Port Harcourt,21/04/2025
+163,Zainab Musa,Male,Port Harcourt,20/04/2025
+110,Tunde Adebayo,Female,Lagos,20/04/2025
+130,Chiamaka Yakubu,,Lagos,20/04/2025
+103,Chinedu Balogun,Female,Port Harcourt,20/04/2025
+72,Abdullahi Ekanem,,Abuja,20/04/2025
+168,Chiamaka Balogun,,Port Harcourt,20/04/2025
+62,Kemi Balogun,Female,Kano,20/04/2025
+159,Ahmed Adamu,Female,Lagos,20/04/2025
+49,Aisha Yakubu,Male,Lagos,20/04/2025
+32,Chuka Bello,Female,Lagos,20/04/2025
+60,Lola Akinwale,Male,Ibadan,20/04/2025
+46,Abdullahi Eze,Female,Lagos,20/04/2025
+83,Amaka Sule,Male,Lagos,20/04/2025
+90,Oluwaseun Eze,Female,Ibadan,20/04/2025
+189,Bisi Ojo,Female,Lagos,20/04/2025
+127,Abdullahi Balogun,Female,Ibadan,20/04/2025
+171,Chinedu Adebayo,Male,Port Harcourt,20/04/2025
+2,Chiamaka Okoro,Male,Lagos,
+5,Bisi Adebayo,Female,Lagos,
+38,Tunde Usman,Male,Port Harcourt,
+50,Bisi Lawal,Female,Kano,
+68,Fatima Nwosu,Male,Lagos,
+76,Fatima Nwosu,Female,Kano,
+77,Ibrahim Nwosu,Male,Abuja,
+97,Emeka Usman,Female,Port Harcourt,
+99,Bisi Adamu,,Abuja,
+115,Fatima Bello,Female,Ibadan,
+119,Ahmed Ibrahim,Female,Ibadan,
+120,Tunde Yakubu,Female,Lagos,
+121,Oluwaseun Usman,Female,Kano,
+126,Abdullahi Eze,Female,Ibadan,
+139,Chuka Ekanem,,Ibadan,
+142,Ahmed Akinwale,Female,Kano,
+144,Chuka Musa,Female,Lagos,
+183,Aisha Okoro,Male,Ibadan,
+188,Hassan Adamu,,Port Harcourt,
+190,Oluwaseun Sule,,Lagos,

@@ -2,7 +2,7 @@
 -- Purpose: Identify riders with the best customer experience (≥15 feedbacks).
 
 SELECT r.rider_name,
-       ROUND(AVG(f.rating), 2) AS avg_rating,
+       ROUND(AVG(COALESCE(f.rating, 0)), 2) AS avg_rating,
        COUNT(f.feedback_id) AS feedback_count
 FROM feedback f
 JOIN orders o ON f.order_id = o.order_id
